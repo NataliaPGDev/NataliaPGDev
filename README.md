@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00d4ff&height=200&section=header&text=Natalia%20PG%20🚀&fontSize=50&fontColor=ffffff" />
+  <img src="assets/bannernpg.png" />
 </p>
 
 # 👋 ¡Hola! Soy Natalia — Fullstack Developer (especializada en Backend)
@@ -67,10 +67,10 @@ Me encanta crear software limpio, modular y mantenible.
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO">
+  <a href="www.linkedin.com/in/natalia-perez-gamero-697a41384">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:natalia.pg.dev@...">
+  <a href="mailto:ng.desarrolloweb@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
