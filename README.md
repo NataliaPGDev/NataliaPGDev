@@ -3,10 +3,23 @@
   <img src="assets/bannernpg.png" />
 </p>
 
-# 👋 ¡Hola! Soy Natalia — Fullstack Developer (especializada en Backend)
+# 👋 ¡Hola! Soy Natalia / Desarrolladora Backend con base Frontend
 
-Desarrolladora fullstack con foco en **arquitectura backend**, diseño de **APIs**, modelos de datos sólidos y sistemas escalables.  
-Me encanta crear software limpio, modular y mantenible.
+➡️ Actualmente construyendo mi perfil como desarrolladora backend con base frontend en continua formación, enfocada en construir código limpio, documentado y escalable. 
+➡️ Con una trayectoria profesional sólida dentro de la gestión de proyectos culturales 💻Hoy aplico esa misma disciplina al desarrollo web con una mirada estructurada que me ayuda a crear experiencias digitales que permitan mejorar procesos mediante lógica de negocio y datos.
+
+🌱 Me interesa crecer en entornos donde pueda aportar desde el primer día, aprender de profesionales con experiencia y participar en proyectos que unan tecnología, diseño y propósito.
+
+ 👉 Aporto como junior 👈
+
+🌟 Orden, responsabilidad, constancia y autonomía en el trabajo
+🌟 Capacidad de aprendizaje rápido y adaptación
+🌟 Ejercer buenas prácticas en el desarrollo: limpieza y documentación
+🌟 Buenas habilidades comunicativas
+🌟 Mentalidad colaborativa y orientada a soluciones
+🌟 Motivación por desarrollarme en áreas como sistemas ERP, SAP, entre otros.
+
+📌Construyendo mi camino en tecnología con compromiso de aportar valor desde el inicio
 
 ---
 
