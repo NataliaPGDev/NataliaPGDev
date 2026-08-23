@@ -19,7 +19,7 @@
 - 🌟 Ejercer buenas prácticas en el desarrollo: limpieza y documentación
 - 🌟 Buenas habilidades comunicativas
 - 🌟 Mentalidad colaborativa y orientada a soluciones
-- 🌟 Motivación por desarrollarme en áreas como sistemas ERP, SAP, entre otros.
+- 🌟 Motivación por desarrollarme en áreas como sistemas ERP, SAP, gestión de datos, entre otros.
 
 📌Construyendo mi camino en tecnología con compromiso de aportar valor desde el inicio
 
@@ -27,9 +27,9 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Lenguajes y Backend
+### 🔹Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,js" />
 </p>
 
 ### 🔹 Frontend
@@ -49,33 +49,34 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Mis Primeros Proyectos 
 
-### 🔸 ERP Modular (en desarrollo)
-- Arquitectura escalable  
-- Módulos independientes  
-- RBAC con enums  
-- Layouts reutilizables y componentes dinámicos  
+### 🔸 E-Commerce Rännkor
+- Arquitectura MVC
+- PHP/MySQL/HTML/CSS/JS
+- Boceto tienda E-Commerce de venta de zapatillas
+- Vista usuario y panel administrador
+- Funciones Usuario: login, crear cuenta, navegación por categorías, carrito, simulación de compra, ver pedidos realizados, ver perfil.
+- Funciones Adminisitrador: login, gestión de productos, gestión de pedidos.
+- URL: https://rannkor.infinityfreeapp.com/
 
-### 🔸 Sistema de Reservas
-- Lógica de límites por usuario  
-- Bloques horarios  
-- Auditoría  
-- Optimización de espacios  
+### 🔸 Aplicación Gestfincas
+- Arquitectura MVC 
+- PHP/MySQL/HTML/CSS/BOOTSTRAP/JS
+- Trabajo en prácticas FP
+- Desarrollo aplicación gestión de comunidad de vecinos
+- Funciones Usuario: crear cuenta, login, acceso a módulos: reservas, parking, finanzas, juntas, votaciones, foro, incidencias, perfil, notificaciones.
+- Funciones Presidente: alta vivienda, gestión de cada uno de los módulos para auditar y gestionar problemas en la comunidad.
+- Funciones Administrador: crear comunidades, dar de alta presidente, acceso a la aplicación completa.
 
-### 🔸 Componentes UI reutilizables
-- Modales dinámicos  
-- Formularios con carga por fetch  
-- Layouts desacoplados  
+
+### 🔸 En Desarrollo
+- Backend para un sistema ERP básico
+- JAVA/SPRING BOOT/
 
 ---
 
-## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
