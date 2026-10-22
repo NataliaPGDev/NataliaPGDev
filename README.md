@@ -1,27 +1,24 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="assets/bannernpg.png" />
+  <img src="assets/ngbueno.jpg" />
 </p>
 
 # 👋 ¡Hola! Soy Natalia / Desarrolladora Backend con base Frontend
 
 <p align="justify">
-➡️ Actualmente construyendo mi perfil como desarrolladora backend con base frontend en continua formación, enfocada en construir código limpio, documentado y escalable. 
-➡️ Con una trayectoria profesional sólida dentro de la gestión de proyectos culturales 💻Hoy aplico esa misma disciplina al desarrollo web con una mirada estructurada que me ayuda a crear experiencias digitales que permitan mejorar procesos mediante lógica de negocio y datos.
+➡️ Actualmente estoy construyendo mi perfil como desarrolladora SAP ABAP Cloud dentro del ecosistema SAP BTP, mientras continúo reforzando mis conocimientos en otras tecnologías backend como: Java y Spring Boot. 
+➡️ Mi objetivo es aprender a diseñar e implementar soluciones eficientes, mantenibles y escalables, así como participar en proyectos de mantenimiento y evolutivos.
+➡️ Mi trayectoria profesional en la gestión y producción de proyectos culturales me ha permitido desarrollar competencias en planificación, organización, coordinación de equipos y resolución de incidencias. Hoy traslado esa experiencia al ámbito tecnológico, con una visión estructurada y orientada a la calidad, la lógica de negocio y las buenas prácticas de desarrollo.
 
-🌱 Me interesa crecer en entornos donde pueda aportar desde el primer día, aprender de profesionales con experiencia y participar en proyectos que unan tecnología, diseño y propósito.
-</p>
+✅ ¿Qué puedo aportar como desarrolladora junior?
 
- 👉 Aporto como junior 👈
+🔹Organización, responsabilidad y autonomía en el trabajo.
+🔹Capacidad de aprendizaje, adaptación y mejora continua.
+🔹Atención a la calidad del código, la limpieza y la documentación.
+🔹Habilidades comunicativas y capacidad para trabajar en equipo.
+🔹Mentalidad analítica, orientación a soluciones y motivación por aprender de profesionales con experiencia.
 
-- 🌟 Orden, responsabilidad, constancia y autonomía en el trabajo
-- 🌟 Capacidad de aprendizaje rápido y adaptación
-- 🌟 Ejercer buenas prácticas en el desarrollo: limpieza y documentación
-- 🌟 Buenas habilidades comunicativas
-- 🌟 Mentalidad colaborativa y orientada a soluciones
-- 🌟 Motivación por desarrollarme en áreas como sistemas ERP, SAP, gestión de datos, entre otros.
-
-📌Construyendo mi camino en tecnología con compromiso de aportar valor desde el inicio
+📌Busco crecer profesionalmente en un entorno colaborativo, especialmente enfocado en el ecosistema SAP, donde pueda consolidar mis conocimientos, asumir nuevos retos y contribuir al desarrollo de soluciones que aporten valor.
 
 ---
 
@@ -70,9 +67,10 @@
 - Funciones Administrador: crear comunidades, dar de alta presidente, acceso a la aplicación completa.
 
 
-### 🔸 En Desarrollo
-- Backend para un sistema ERP básico
-- JAVA/SPRING BOOT/
+### 🔸 Certificaciones SAP en proceso
+- ABAP CLOUD
+- CAP
+- CPI
 
 ---
 
@@ -83,7 +81,7 @@
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="www.linkedin.com/in/natalia-perez-gamero-697a41384">
+  <a href="www.linkedin.com/in/natalia-perezgamero">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:ng.desarrolloweb@gmail.com">
