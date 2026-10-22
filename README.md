@@ -3,7 +3,7 @@
   <img src="assets/ngbueno.jpg" />
 </p>
 
-# 👋 ¡Hola! Soy Natalia / Desarrolladora Backend con base Frontend
+# 👋 ¡Hola! Soy Natalia 
 
 <p align="justify">
 ➡️ Actualmente estoy construyendo mi perfil como desarrolladora SAP ABAP Cloud dentro del ecosistema SAP BTP, mientras continúo reforzando mis conocimientos en otras tecnologías backend como: Java y Spring Boot. 
@@ -71,12 +71,6 @@
 - ABAP CLOUD
 - CAP
 - CPI
-
----
-
-
-
----
 
 ## 🌐 Conecta conmigo
 
