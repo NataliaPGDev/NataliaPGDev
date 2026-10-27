@@ -13,9 +13,13 @@
 ✅ ¿Qué puedo aportar como desarrolladora junior?
 
 🔹Organización, responsabilidad y autonomía en el trabajo.
+
 🔹Capacidad de aprendizaje, adaptación y mejora continua.
+
 🔹Atención a la calidad del código, la limpieza y la documentación.
+
 🔹Habilidades comunicativas y capacidad para trabajar en equipo.
+
 🔹Mentalidad analítica, orientación a soluciones y motivación por aprender de profesionales con experiencia.
 
 📌Busco crecer profesionalmente en un entorno colaborativo, especialmente enfocado en el ecosistema SAP, donde pueda consolidar mis conocimientos, asumir nuevos retos y contribuir al desarrollo de soluciones que aporten valor.
