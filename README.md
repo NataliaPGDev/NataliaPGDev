@@ -7,7 +7,9 @@
 
 <p align="justify">
 ➡️ Actualmente estoy construyendo mi perfil como desarrolladora SAP ABAP Cloud dentro del ecosistema SAP BTP, mientras continúo reforzando mis conocimientos en otras tecnologías backend como: Java y Spring Boot. 
+  
 ➡️ Mi objetivo es aprender a diseñar e implementar soluciones eficientes, mantenibles y escalables, así como participar en proyectos de mantenimiento y evolutivos.
+
 ➡️ Mi trayectoria profesional en la gestión y producción de proyectos culturales me ha permitido desarrollar competencias en planificación, organización, coordinación de equipos y resolución de incidencias. Hoy traslado esa experiencia al ámbito tecnológico, con una visión estructurada y orientada a la calidad, la lógica de negocio y las buenas prácticas de desarrollo.
 
 ✅ ¿Qué puedo aportar como desarrolladora junior?
